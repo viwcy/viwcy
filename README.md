@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**viwcy/viwcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,3 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 技术栈 Github 统计
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=captain5&show_icons=true">
