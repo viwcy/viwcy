@@ -1,4 +1,4 @@
 ### 🌱 I’m currently learning ...
 
-![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=for-the-badge&logo=Java&logoColor=red&labelColor=%23F7DF1C&color=%white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 
