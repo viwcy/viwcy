@@ -34,4 +34,12 @@
 
 ---
 
+### The soul of social 🤝
+
+![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=ffffff)
+![Tencent QQ](https://img.shields.io/badge/-Tencent%20QQ-EB1923?style=flat-square&logo=tencent-qq&logoColor=ffffff)
+![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=ffffff)
+
+---
+
 ![](https://visitor-badge.glitch.me/badge?page_id=viwcy.readme)
