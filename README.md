@@ -1,6 +1,6 @@
 ### 🌱 I’m currently learning ...
 
-![](https://img.shields.io/github/stars/snowdreams1006/snowdreams1006.github.io.svg?style=social)
+![](https://img.shields.io/github/stars/viwcy/viwcy.github.io.svg?style=social)
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)
 ![](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=WeChat&logoColor=ffffff)
 
