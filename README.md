@@ -1,6 +1,6 @@
 ### 🌱 I’m currently learning ...
 
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=WeChat&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-QQ-EB1923?style=flat-square&logo=Tencentqq&logoColor=ffffff)](https://reactjs.org/)
 
