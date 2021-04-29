@@ -1,13 +1,6 @@
 ### 🌱 I’m currently learning ...
 <br/>
-<--!
----
 
-![GitHub Followers](https://img.shields.io/github/followers/viwcy?style=social)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/viwcy?style=social)
-![Stars](https://img.shields.io/github/stars/viwcy?style=social)
-<br/>
--->
 ---
 
 ### Spotify Playing 🎧
