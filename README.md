@@ -1,7 +1,7 @@
 ### 🌱 I’m currently learning ...
 
 ![](https://img.shields.io/github/followers/viwcy?style=social)
-![](![GitHub Sponsors](https://img.shields.io/github/sponsors/viwcy?style=social))
+![GitHub Sponsors](https://img.shields.io/github/sponsors/viwcy?style=social)
 ![](https://img.shields.io/github/stars/viwcy?style=social)
 
 
