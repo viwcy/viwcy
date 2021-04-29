@@ -1,8 +1,18 @@
 ### 🌱 I’m currently learning ...
+<br/>
 
 ![](https://img.shields.io/github/followers/viwcy?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/viwcy?style=social)
 ![](https://img.shields.io/github/stars/viwcy?style=social)
+<br/>
+
+---
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
 
 ### Languages and Tools 🛠 
 
@@ -16,7 +26,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+<br/>
 
+---
 [![info](https://github-readme-stats.vercel.app/api?username=viwcy&show_icons=true&icon_color=CE1D2D&bg_color=ffffff&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=viwcy.readme)
