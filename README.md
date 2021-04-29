@@ -3,6 +3,7 @@
 
 ---
 [![info](https://github-readme-stats.vercel.app/api?username=viwcy&show_icons=true&icon_color=CE1D2D&bg_color=ffffff&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 ---
 
@@ -27,5 +28,8 @@
 ![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
+<br>
+
+---
 
 ![](https://visitor-badge.glitch.me/badge?page_id=viwcy.readme)
