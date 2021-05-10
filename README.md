@@ -1,6 +1,3 @@
-### 🌱 I’m currently learning ...
-<br/>
-
 ---
 ### GitHub Stats
 
